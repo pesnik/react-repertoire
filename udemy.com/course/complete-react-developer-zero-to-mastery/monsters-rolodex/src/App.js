@@ -34,7 +34,7 @@ class App extends Component {
       <div className="App">
         <SearchBox 
           className='search-box' 
-          placeHolder='search monsters' 
+          placeholder='search monsters' 
           onMonsterSearch={onMonsterSearch}/>
           
         <CardList monsters={filteredMonsters}/>
