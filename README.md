@@ -1,4 +1,4 @@
-# react-playground
+# react-repertoire
 
 ## Course List
 - https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
